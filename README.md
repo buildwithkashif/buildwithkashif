@@ -47,7 +47,7 @@ Projects, experiments, and learning resources will be added here as they are dev
 **Learning. Building. Improving.**
 
 </div>
-## Hi there 👋
+
 
 <!--
 **buildwithkashif/buildwithkashif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
